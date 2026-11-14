@@ -1,1 +1,26 @@
-{"name":"Nkane — Dhara CRT Gold Engine","short_name":"Nkane Dhara","start_url":"./index.html","display":"standalone","background_color":"#090b10","theme_color":"#090b10","description":"Your Trading Companion"}
+{
+  "name": "Nkane \u2014 Dhara CRT Gold Engine",
+  "short_name": "Nkane Dhara",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "description": "Your Trading Companion \u2014 Dhara Money Codes",
+  "icons": [
+    {
+      "src": "icons/nkane-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/nkane-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
